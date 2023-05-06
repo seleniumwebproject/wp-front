@@ -20,7 +20,7 @@ jobs:
         uses: docker/build-push-action@v1
         with:
           username: seleniumwebproject
-          password: dckr_pat_4LR9S7crXC6sxFCKskGITWYeMUw
+          password: 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
           registry: docker.pkg.github.com
           repository: seleniumwebproject/wp-front/wp-front
           tag_with_ref: true
